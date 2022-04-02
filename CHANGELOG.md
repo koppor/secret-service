@@ -4,9 +4,7 @@ The [secret-service](https://github.com/swiesend/secret-service) library impleme
 
 ## Unreleased
 
-The 2.0 interface design is to be found on the [`develop-2.x.x`](https://github.com/swiesend/secret-service/tree/develop-2.x.x) branch.
-
-## [1.8.1-jdk17] - 2023-01-17
+The 2.0 interface design is to be found on the `develop-2.0.0` branch and has to be merged with the `2.0.0` branch approach.
 
 - `Fixed`:
   - Actually use `dbus-java-transport-native-unixsocket` instead of `dbus-java-transport-jnr-unixsocket`.
@@ -174,6 +172,7 @@ The 2.0 interface design is to be found on the [`develop-2.x.x`](https://github.
 
 - implement the [Secret Service API 0.2](https://specifications.freedesktop.org/secret-service/) 
 
+[2.0.0-rc.1]: https://github.com/swiesend/secret-service/compare/v1.8.0-jdk17...2.0.0-rc.1
 [1.8.0-jdk17]:  https://github.com/swiesend/secret-service/compare/v1.7.0...v1.8.0-jdk17
 [1.7.0]:  https://github.com/swiesend/secret-service/compare/v1.6.2...v1.7.0
 [1.6.2]:  https://github.com/swiesend/secret-service/compare/v1.6.1...v1.6.2
