@@ -15,7 +15,7 @@ The 2.0 interface design is to be found on the [`develop-2.x.x`](https://github.
 
 - `Added`
   - Introduce java modules `module-info.java`
-- Changed`
+- `Changed`
   - Update `hkdf` from `1.1.0` to `2.0.0`
   - Update `slf4j` from `2.0.6` to `2.0.7`
   - Update Maven dependencies
